@@ -1,5 +1,6 @@
-print("yolo")
-print("yomo")
-print("yoko")
+<<<<<<< HEAD
+print("yolo;")
+print("yomo;")
+print("yoko;")
 print("privet!")
 print("priv!")
