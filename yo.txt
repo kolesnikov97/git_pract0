@@ -1,3 +1,4 @@
 print("yolo")
 print("yomo")
 print("yoko")
+print("privet!")
